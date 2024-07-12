@@ -29,4 +29,6 @@ fn main() {
 
     let res = multiply2(2, 4);
     println!("result is: {res}")
+
+    
 }
